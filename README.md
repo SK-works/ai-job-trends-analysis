@@ -1,2 +1,2 @@
-# ai-job-trends-analysis
+# AI-Job-trends-Analysis
 Analyzing AI Job Trends using Excel, Python, and Power BI
